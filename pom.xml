@@ -50,7 +50,6 @@
             </activation>
             <properties>
                 <!-- Dependency versions -->
-                <additionalparam>-Xdoclint:none</additionalparam>
                 <javax-servlet-api.version>4.0.1</javax-servlet-api.version>
                 <junit-jupiter.version>6.1.0</junit-jupiter.version>
                 <lombok.version>1.18.46</lombok.version>
